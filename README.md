@@ -12,8 +12,9 @@
 
 I enjoy building AI that tackles real-world problems while leaving room for creativity and experimentation.
 
-🔭 &nbsp;I'm currently working on **AI portfolio projects and deploying ML applications**  
-🌱 &nbsp;I'm currently learning **RAG systems and MLOps**  
+🔭 &nbsp;I'm currently working on **a flood extent mapping project using Sentinel-1 SAR and Sentinel-2 imagery**, plus a portfolio site to showcase my work  
+🌱 &nbsp;I'm currently learning **geospatial ML (satellite imagery, segmentation, change detection) and MLOps**  
+🪐 &nbsp;I'm especially interested in **applying ML to space and Earth observation**
 ⚡ &nbsp;Fun fact: **I don't like building UIs, but I obsess over how they look.**
 
 ### 🛠️ Tech Stack
